@@ -1,0 +1,8 @@
+{
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "upgradeBoosts": true,
+  "isBetting": true,
+  "howManyBetting": 10
+}
