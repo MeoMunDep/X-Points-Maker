@@ -35,7 +35,6 @@ create_default_configs() {
   "country_time": "en-US",
   "upgradeBoosts": true,
   "isBetting": true,
-  "howManyBetting": 10,
   "doTasks": true,
   "delayEachAccount": [1, 81],
   "referralCode": 6713068747
@@ -114,7 +113,7 @@ while true; do
             else
                 print_green "Using node_modules from current directory"
             fi
-            cd "x-points maker" && node meomundep
+            node meomundep
             read -p "Press Enter to continue..."
             ;;
         4)
