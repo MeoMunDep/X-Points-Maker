@@ -4,5 +4,7 @@
   "country_time": "en-US",
   "upgradeBoosts": true,
   "isBetting": true,
-  "howManyBetting": 10
+  "doTasks": true,
+  "delayEachAccount": [1, 81],
+  "referralCode": 6713068747
 }
