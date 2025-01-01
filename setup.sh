@@ -54,7 +54,7 @@ check_configs() {
 while true; do
     clear
     echo "============================================================================"
-    echo "    X Point Maker BOT SETUP AND RUN SCRIPT by @MeoMunDep"
+    echo "    X-Points Maker BOT SETUP AND RUN SCRIPT by @MeoMunDep"
     echo "============================================================================"
     echo
     echo "Current directory: $(pwd)"
@@ -114,7 +114,7 @@ while true; do
             else
                 print_green "Using node_modules from current directory"
             fi
-            cd "x-point maker" && node meomundep
+            cd "x-points maker" && node meomundep
             read -p "Press Enter to continue..."
             ;;
         4)
